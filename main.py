@@ -8,6 +8,12 @@ import os
 
 
 app = FastAPI()
+app.add_middleware(CORSMiddleware, 
+                   allow_origins=["*"], 
+                   allow_credentials=True,
+                   allow_methods=["*"], 
+                   allow_headers=["*"]
+                  )
 
 client = genai.Client(api_key="YOUR-API-KEY")
 
