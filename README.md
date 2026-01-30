@@ -26,7 +26,6 @@ Run app
   "prompt": "turn the car blue", // prompt for editing
   "image": "iVBORw0KGgoAAAANSUhEUgAABFQAAAK9CA..." // image to edit
 }
-"
 ```
 
 ## Example response
@@ -34,7 +33,6 @@ Run app
 {
   "image":"iVBORw0KGgoAAAANSUhEUgAABQAAAAMgCAIAAADz..." // edited image
 }
-"
 ```
 
 
