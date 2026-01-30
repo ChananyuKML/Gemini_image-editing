@@ -25,13 +25,15 @@ Run app
 {
   "prompt": "turn the car blue", // prompt for editing
   "image": "iVBORw0KGgoAAAANSUhEUgAABFQAAAK9CA..." // image to edit
+}
 "
 ```
 
 ## Example response
 ```json
 {
-  {"image":"iVBORw0KGgoAAAANSUhEUgAABQAAAAMgCAIAAADz..." // edited image
+  "image":"iVBORw0KGgoAAAANSUhEUgAABQAAAAMgCAIAAADz..." // edited image
+}
 "
 ```
 
