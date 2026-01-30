@@ -21,21 +21,21 @@ Run app
 ```
 
 ## Example request
-![Original image](image/car.png)
 ```json
 {
   "prompt": "turn the car blue", // prompt for editing
   "image": "iVBORw0KGgoAAAANSUhEUgAABFQAAAK9CA..." // image to edit
 }
 ```
+![Original image](image/car.png)
 
 ## Example response
-![Edited image](image/edited.png)
 ```json
 {
   "image":"iVBORw0KGgoAAAANSUhEUgAABQAAAAMgCAIAAADz..." // edited image
 }
 ```
+![Edited image](image/edited.png)
 
 
 
