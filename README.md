@@ -21,6 +21,7 @@ Run app
 ```
 
 ## Example request
+![Original image](image/car.png)
 ```json
 {
   "prompt": "turn the car blue", // prompt for editing
@@ -29,6 +30,7 @@ Run app
 ```
 
 ## Example response
+![Edited image](image/edited.png)
 ```json
 {
   "image":"iVBORw0KGgoAAAANSUhEUgAABQAAAAMgCAIAAADz..." // edited image
