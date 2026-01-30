@@ -1,0 +1,6 @@
+google-genai
+pydantic
+Pillow
+fastapi
+uvicorn
+python-multipart
